@@ -20,7 +20,7 @@ Clone the Repository:
 Open a terminal or command prompt and navigate to your desired project directory. Then, clone this repository using the following command:
 
 Bash
-git clone https://github.com/your-username/hand-tracking-with-mediapipe.git
+git clone https://github.com/iampraffulbisht/Hand_Tracking
 Use code with caution.
 
 Replace your-username with your actual GitHub username.
@@ -52,7 +52,7 @@ Use code with caution.
 This will launch a webcam window displaying your hand with detected landmarks visualized as circles and connections.
 
 Terminate the Application:
-Press the q key on your keyboard to quit the program.
+Stop termianl to to terminate application 
 
 Customization (Optional)
 
