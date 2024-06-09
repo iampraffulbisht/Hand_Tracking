@@ -1,5 +1,10 @@
 Hand Tracking with MediaPipe
 
+<img width="1278" alt="Screenshot 2024-06-10 at 1 43 30 AM" src="https://github.com/iampraffulbisht/Hand_Tracking/assets/114369813/8842d11d-51ac-4e2c-a06d-7b05d281992b">
+
+<img width="523" alt="Screenshot 2024-06-10 at 1 40 04 AM" src="https://github.com/iampraffulbisht/Hand_Tracking/assets/114369813/d3180086-d674-47fd-8c9f-966372c8527f">
+
+
 This project demonstrates real-time hand tracking using MediaPipe, a powerful machine learning framework for building multi-modal applications. By leveraging MediaPipe's Hands solution, you can detect and visualize hand landmarks in a video stream, making it suitable for various interactive experiences.
 
 Prerequisites
@@ -35,10 +40,10 @@ Use code with caution.
 Then, install the required dependencies using pip:
 
 Bash
-pip install -r requirements.txt
+pip install opencv-python mediapipe
 Use code with caution.
 
-A requirements.txt file can be created to list dependencies, but it's optional for this simple project.
+
 
 Running the Project
 
@@ -52,7 +57,7 @@ Use code with caution.
 This will launch a webcam window displaying your hand with detected landmarks visualized as circles and connections.
 
 Terminate the Application:
-Stop termianl to to terminate application 
+Stop termianl to  terminate application 
 
 Customization (Optional)
 
